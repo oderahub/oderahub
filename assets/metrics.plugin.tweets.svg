@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="205" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="137" class="">
     <defs>
         <style/>
     </defs>
@@ -22,20 +22,10 @@
                             Envoy_1084
                         </div>
                         <div class="tweet">
-                            <span class="mention">@Prathkum</span>
-                            <span class="mention">@HyperspaceOrg</span>
-                            🧒 I am Vedant, 18 years old
-                            <br />
-                            👨‍🎓 Computer Science Student
-                            <br />
-                            ✍️ Technical Writer
-                            <br />
-                            🚀 Exploring Web3 and Blockchain
-                            <br />
-                            🕊️ I tweet about my learnings and Web3
-                            <br />
-                            💜 Love to try new Technologies
-                            <div class="date">01:19:10 on 4 Feb 2023</div>
+                            <span class="mention">@abdulahjalaly</span>
+                            <span class="mention">@xsgames_</span>
+                            It's for solidity, anyone can access the variable in public you can try it in remix IDE
+                            <div class="date">10:31:55 on 4 Feb 2023</div>
                         </div>
                     </section>
                 </div>
