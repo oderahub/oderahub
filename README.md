@@ -1,6 +1,6 @@
 - 👋 Hi, I’m chidera, a MERN stack developer.
 - 👀 I’m interested in turning code into creative solutions, well-crafted systems, and technology's balance between function and form.
-- 🌱 I’m currently learning Solidity and writing smart contracts, diving into blockchain, especially the financial innovation side of DeFi (and DAOs too!).
+- 🌱 I’m currently learning and building software solutions.
 - 💞️ I’m looking to collaborate on projects that blend creativity and tech or anything that needs a curious mind.
 - 📫 How to reach me on okere_chidera@yahoo.com
 - 😄 Pronouns: ... 
