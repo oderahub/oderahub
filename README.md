@@ -82,26 +82,6 @@
 
 <img src="./assets/metrics.plugin.wakatime.svg">
 
-<h2>
-    <img
-        src="https://emojis.slackmojis.com/emojis/images/1704759014/85857/redbull.gif"
-        width="20" />
-    Featured Projects
-</h2>
-
-<a href="https://github.com/oderahub/your-project-1" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oderahub&repo=your-project-1&theme=dark"/>
-</a>
-<a href="https://github.com/oderahub/your-project-2" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oderahub&repo=your-project-2&theme=dark" align="center" />
-</a>
-<a href="https://github.com/oderahub/your-project-3" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oderahub&repo=your-project-3&theme=dark" />
-</a>
-<a href="https://github.com/oderahub/your-project-4" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oderahub&repo=your-project-4&theme=dark" />
-</a>
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -113,6 +93,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="solidity" width="40" height="40"/>
+  <img src="https://cryptologos.cc/logos/stacks-stx-logo.svg" alt="clarity" width="40" height="40"/>
+  <img src="https://cryptologos.cc/logos/starknet-strk-logo.svg" alt="cairo" width="40" height="40"/>
 </p>
 
 ## 🔥 GitHub Streak
@@ -121,10 +103,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oderahub&theme=dark" alt="GitHub Streak" />
 </p>
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oderahub&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
 ---
 
-<img src="https://raw.githubusercontent.com/oderahub/oderahub/output/github-contribution-grid-snake-dark.svg">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=oderahub&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
-![Visitor Count](https://profile-counter.glitch.me/oderahub/count.svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
 
 ---
