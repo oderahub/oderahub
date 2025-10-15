@@ -1,24 +1,20 @@
-name: This repo has x stars y forks
-
+name: Star-Fork
 on:
- push:
-  branches:
-   - master
-   - main
- fork:
- watch:
-  types:
-   - started
- schedule:
-  - cron: '0 * * * *'
- workflow_dispatch:
-
+  # Schedule updates (each hour)
+  schedule: [{ cron: '0 * * * *' }]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: { branches: ['master', 'main'] }
 jobs:
- update:
-  runs-on: ubuntu-latest
-  steps:
-   - name: This repo has x stars y forks
-     uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
-     with:
-      token: ${{ secrets.STAR_FORK_TOKEN }}
-      template: 'A profile README with <starCount> stars and <forkCount> forks 🌟'
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.starfork.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: oderahub
+          template: classic
+          base: ''
+          config_timezone: Africa/Lagos

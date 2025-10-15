@@ -1,54 +1,53 @@
 <h1>
-	<img
-		src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif"
-		width="30" />
-	Hey there, nice to see you.
+    <img
+        src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif"
+        width="30" />
+    Hey there, nice to see you.
 </h1>
 
 <p align="left">
-	<a href="https://x.com/Envoy_1084" target="_blank"
-		><img height="30" src="./icons/png/twitter.png"
-	/>
-	<a href="https://www.linkedin.com/in/vedant-chainani/" target="_blank"
-		><img height="30" src="./icons/png/linkedin.png"
-	/>
-	<a href="mailto:vedantchainani1084@gmail.com" target="_blank"
-		><img height="30" src="./icons/png/gmail.png"
-	/>
-	<a
-		href="https://marketplace.visualstudio.com/publishers/Envoy1084"
-		target="_blank"
-		><img
-			height="30"
-			src="./icons/png/visual-studio.png" /></a
-	>
-	<a href="https://discordapp.com/users/665550588582297622"><img height="30" src="./icons/png/discord.png" alt="envoy_#0" ></a>
-	<a href="https://t.me/envoy1084"><img height="30" src="./icons/png/telegram.png" alt="@envoy1084" ></a>
-	<a href="https://envoy1084.xyz"><img height="30" src="./icons/png/web.png" alt="envoy1084.xyz" ></a>
+    <a href="https://x.com/oderahub" target="_blank"
+        ><img height="30" src="./icons/png/twitter.png"
+    />
+    <a href="https://www.linkedin.com/in/oderahub/" target="_blank"
+        ><img height="30" src="./icons/png/linkedin.png"
+    />
+    <a href="mailto:okere_chidera@yahoo.com" target="_blank"
+        ><img height="30" src="./icons/png/gmail.png"
+    />
+    <a
+        href="https://marketplace.visualstudio.com/publishers/oderahub"
+        target="_blank"
+        ><img
+            height="30"
+            src="./icons/png/visual-studio.png" /></a
+    >
+    <a href="https://discordapp.com/users/oderahub"><img height="30" src="./icons/png/discord.png" alt="oderahub" ></a>
+    <a href="https://t.me/oderahub"><img height="30" src="./icons/png/telegram.png" alt="@oderahub" ></a>
+    <a href="https://oderahub.dev"><img height="30" src="./icons/png/web.png" alt="oderahub.dev" ></a>
 
 </p>
 
 <br>
 
-Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and Technical Writer from India. I've been in web3 space for around 3 years shipping cool products, attending IRL Events and participating in Hackathons.
+👋 Hi, I'm [Chidera](https://github.com/oderahub), a MERN Blockchain Software Engineer. I'm passionate about turning code into creative solutions, well-crafted systems, and exploring technology's balance between function and form.
 <br>
-
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" style="border-radius: 24px; padding-top: 4rem;" />
 
 <h3>
-	<img
-		src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif"
-		width="20" />
-	About Me...
-</h2>
+    <img
+        src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif"
+        width="20" />
+    About Me...
+</h3>
 
-- ⛴️ I love shipping products and learning new technologies.
-- 👨🏻‍💻 I love to participate in hackathons.
-- 📚 I also write technical articles on my [blog](https://blog.envoy1084.xyz).
-- 🏴‍☠️ Currently Building a Secure Battleship Game on Nillion Network.
-- 📫 Reach me at: [vedantchainani1084@gmail.com](mailto:vedantchainani1084@gmail.com)
-- 🌐 Learn More at: [envoy1084.xyz](https://envoy1084.xyz)
+- 👀 I'm interested in turning code into creative solutions, well-crafted systems, and technology's balance between function and form.
+- 🌱 I'm currently learning and building software solutions.
+- 💻 Open to exciting opportunities in blockchain, backend, and full-stack development.
+- 💞️ I'm looking to collaborate on projects that blend creativity and tech or anything that needs a curious mind.
+- ⚡ Fun fact: Fueled by curiosity, I'm probably the type to debug code to see how elegantly I can rewrite it.
+- 📫 How to reach me: [okere_chidera@yahoo.com](mailto:okere_chidera@yahoo.com)
 
 ## 📊 Github Stats
 
@@ -75,44 +74,57 @@ Hi, I'm [Vedant Chainani](https://envoy1084.xyz.com/), a Web3 Developer 🚀 and
 </td></tr></table>
 
 <h2>
-	<img
-		src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738"
-		width="20" />
-	Development Stats
+    <img
+        src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738"
+        width="20" />
+    Development Stats
 </h2>
 
 <img src="./assets/metrics.plugin.wakatime.svg">
 
 <h2>
-	<img
-		src="https://emojis.slackmojis.com/emojis/images/1704759014/85857/redbull.gif"
-		width="20" />
-	Project Time
+    <img
+        src="https://emojis.slackmojis.com/emojis/images/1704759014/85857/redbull.gif"
+        width="20" />
+    Featured Projects
 </h2>
 
-<a href="https://github.com/Envoy-VC/awesome-badges" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=awesome-badges&theme=dark"/>
+<a href="https://github.com/oderahub/your-project-1" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oderahub&repo=your-project-1&theme=dark"/>
 </a>
-<a href="https://github.com/Envoy-VC/piper-pay" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=piper-pay&theme=dark" align="center" />
+<a href="https://github.com/oderahub/your-project-2" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oderahub&repo=your-project-2&theme=dark" align="center" />
 </a>
-<a href="https://github.com/Envoy-VC/blaze-id" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=blaze-id&theme=dark" />
+<a href="https://github.com/oderahub/your-project-3" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oderahub&repo=your-project-3&theme=dark" />
 </a>
-<a href="https://github.com/Envoy-VC/nillion-tools" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=nillion-tools&theme=dark" />
+<a href="https://github.com/oderahub/your-project-4" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oderahub&repo=your-project-4&theme=dark" />
 </a>
-<a href="https://github.com/Envoy-VC/zk-guesser" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=zk-guesser&theme=dark" />
-</a>
-<a href="https://github.com/Envoy-VC/aos-playground" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=aos-playground&theme=dark" />
-</a>
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="solidity" width="40" height="40"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oderahub&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/oderahub/oderahub/output/github-contribution-grid-snake-dark.svg">
 
-![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/oderahub/count.svg)
 
 ---
