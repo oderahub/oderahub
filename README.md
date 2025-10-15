@@ -33,7 +33,7 @@
 👋 Hi, I'm [Chidera](https://github.com/oderahub), a MERN Blockchain Software Engineer. I'm passionate about turning code into creative solutions, well-crafted systems, and exploring technology's balance between function and form.
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" style="border-radius: 24px; padding-top: 4rem;" />
+<img align="right" alt="Vibing Guy GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" style="border-radius: 24px; padding-top: 4rem;" />
 
 <h3>
     <img
@@ -67,11 +67,11 @@
 
 <img src="./assets/metrics.plugin.activity.svg">
 
-</td><td valign="top" width="50%">
+<!-- </td><td valign="top" width="50%">
 
 <img src="./assets/metrics.plugin.stargazers.svg" >
 
-</td></tr></table>
+</td></tr></table> -->
 
 <h2>
     <img
