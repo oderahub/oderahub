@@ -36,13 +36,19 @@
       <img src="https://github-readme-stats.vercel.app/api?username=oderahub&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
     </td>
     <td>
-      <!-- Replaced dynamic top-langs image (sometimes unreliable) with manual Most Used Languages badges for stability -->
-      <strong>Most used languages</strong>
+      <!-- Re-attempt dynamic top-langs card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oderahub&layout=compact&theme=dark&langs_count=8&hide_border=false" alt="Top languages" />
+
+      <!-- Manual fallback (kept commented out) -->
+      <!--
+      <strong>Manual Most used languages:</strong>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="margin:6px;" />
       <img src="https://img.shields.io/badge/Clarity-3DA1FF?style=flat&logo=stacks&logoColor=white" alt="Clarity" style="margin:6px;" />
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity" style="margin:6px;" />
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" style="margin:6px;" />
+      -->
+
     </td>
   </tr>
 </table>
