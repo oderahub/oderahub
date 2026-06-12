@@ -29,7 +29,7 @@
 
 | GitHub Stats | Most Used Languages |
 |---|---|
-| ![](https://github-readme-stats.vercel.app/api?username=oderahub&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oderahub&layout=compact&theme=highcontrast) |
+| ![](https://github-readme-stats.vercel.app/api?username=oderahub&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oderahub&theme=highcontrast&hide_border=false&layout=compact) |
 
 ## 🏆 Achievements
 
