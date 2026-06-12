@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Clarity-3DA1FF?style=for-the-badge&logo=stacks&logoColor=white" alt="Clarity" style="margin:6px;" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" style="margin:6px;" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="margin:6px;" />
+  <!-- <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="margin:6px;" /> -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:6px;" />
   <img src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="margin:6px;" />
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin:6px;" />
@@ -41,6 +41,7 @@
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="margin:6px;" />
       <img src="https://img.shields.io/badge/Clarity-3DA1FF?style=flat&logo=stacks&logoColor=white" alt="Clarity" style="margin:6px;" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:6px;" />
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity" style="margin:6px;" />
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" style="margin:6px;" />
     </td>
