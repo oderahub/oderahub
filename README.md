@@ -1,5 +1,5 @@
 <h1 align="center">Hello world👋🏻</h1>
-<h3 align="center">Data Analyst | WEB3 Enthusiast | AI Engineer</h3>
+<h3 align="center"> WEB3 Enthusiast | Full Stack Engineer</h3>
 
 <div align="center">
 
@@ -48,7 +48,5 @@
 </table>
 
 ## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=oderahub&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
 
 </div>
