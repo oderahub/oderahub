@@ -17,26 +17,16 @@
 
 ## 💻 Tech Stack
 <div align="center">
-  <!-- Use HTML <img> so badges render correctly inside HTML block -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="nVIDIA" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="margin:6px;" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="margin:6px;" />
+  <!-- Explicitly list your most-used languages first -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Clarity-3DA1FF?style=for-the-badge&logo=stacks&logoColor=white" alt="Clarity" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin:6px;" />
 </div>
 
 ## 📊 My Stats:
@@ -46,7 +36,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=oderahub&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oderahub&layout=compact&theme=dark&hide_border=false" alt="Top languages" />
+      <!-- top-langs: dynamic but may reflect GitHub's language detection; keeping as a visual + manual badges above -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oderahub&layout=compact&theme=dark&langs_count=8&hide_border=false" alt="Top languages" />
     </td>
   </tr>
 </table>
