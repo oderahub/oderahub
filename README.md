@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Hero GIF (presigned URL as requested) -->
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/29891172/454422982-aea7bc5f-d403-4480-a241-3a0a96bfe2ad.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250612T133606Z&X-Amz-Expires=300&X-Amz-Signature=82af266e2554013e13bc652c6902232476824ef3da722eca5c69092cc214ea4b&X-Amz-SignedHeaders=host" alt="hero-gif" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/29891172/454422982-aea7bc5f-d403-4480-a241-3a0a96bfe2ad.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQ[...]" />
 
 <!-- Commit activity animation (contribution graph) -->
 <img alt="Commit activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=oderahub&theme=dark" />
@@ -36,19 +36,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=oderahub&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
     </td>
     <td>
-      <!-- Re-attempt dynamic top-langs card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oderahub&layout=compact&theme=dark&langs_count=8&hide_border=false" alt="Top languages" />
-
-      <!-- Manual fallback (kept commented out) -->
-      <!--
-      <strong>Manual Most used languages:</strong>
+      <!-- Replaced dynamic top-langs image (sometimes unreliable) with manual Most Used Languages badges for stability -->
+      <strong>Most used languages</strong>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="margin:6px;" />
       <img src="https://img.shields.io/badge/Clarity-3DA1FF?style=flat&logo=stacks&logoColor=white" alt="Clarity" style="margin:6px;" />
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity" style="margin:6px;" />
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" style="margin:6px;" />
-      -->
-
     </td>
   </tr>
 </table>
